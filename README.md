@@ -15,6 +15,7 @@ Goals
 - Learn how to curl my hair myself 
 
 Why Now? 
+... Coming soon! 
 
 About Sabbaticals
 ... Coming soon! 
