@@ -27,16 +27,16 @@ About Burnout
 In a more ideal world, the formal education system would have a place for me to retrain and learn as a soon-to-be 30 something with a dynamic, modern set of interests, without going into absurd amounts of student debt. Because that world doesn't currently exist, I have created it for myself through a combination of online and in person courses, films, and activities. 
 
 Key 
-✅Completed, finished, done-zo! 
-🚧In progress, working, construction zone! 
-🔜 Up next, on deck, coming up! 
+- ✅Completed, finished, done-zo! 
+- 🚧In progress, working, construction zone! 
+- 🔜 Up next, on deck, coming up! 
 
 Education & Learning Science
-✅ Documentary: Fail State
-✅ MOOC: Learning How to Learn (https://www.coursera.org/learn/learning-how-to-learn) 
-✅ MOOC: Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential (https://www.coursera.org/learn/mindshift)
-🚧 Book: Ultralearning - Master Hard Skills, Outsmart the Competition, and Accelerate Your Career by Scott Young
-🔜 Mastery by Robert Greene
+- ✅ Documentary: Fail State
+- ✅ MOOC: Learning How to Learn (https://www.coursera.org/learn/learning-how-to-learn) 
+- ✅ MOOC: Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential (https://www.coursera.org/learn/mindshift)
+- 🚧 Book: Ultralearning - Master Hard Skills, Outsmart the Competition, and Accelerate Your Career by Scott Young
+- 🔜 Mastery by Robert Greene
 
 Art, Design, Fashion & Beauty
 ✅ Documentary: Bill Cunningham New York
