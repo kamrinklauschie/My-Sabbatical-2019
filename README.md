@@ -4,15 +4,20 @@ An overview of my goals and accomplishments during the 1st sabbatical of my care
 Objectives
 - To overcome burnout and depression 
 - To regain my confidence and sense of worthiness as a human being
-- To rebuild sense of identity and values 
-- Lose 15 pounds or reach 18% BMI, whichever comes 1st 
-- To prepare for a career that may not currently exist, at the intersection of learning and development and software engineering 
+- To rebuild my personal identity and re-commit to my values 
+- To heal from trauma, reflect and learn from mistakes and conflicts from 2019 and earlier
+- To prepare for a career that may not currently exist, at the intersection of learning science and software engineering 
 
 Goals
 - Become a good enough calligrapher to join Punkpost for fun on the weekends
-- Finish the apprenticeship.io features 
-- Finish a clone of the swiss-miss blog 
+- Finish the apprenticeship.io features I've dreamed about for years
+- Finish my reimagination of the swiss-miss blog I've dreamed about for years
 - Learn how to curl my hair myself 
+- Learn how coffee and espresso work, be able to make my favorite drinks with my own two hands
+- Lose 15 pounds or reach 18% BMI, whichever comes 1st 
+- Learn to freestyle swim comfortably 
+- Finish a full time immersive web development bootcamp, as similar to Dev Bootcamp as possible
+- Teach myself the Adobe Creative Cloud suite, with a focus on Photoshop and Illustrator
 
 Why Now? 
 ... Coming soon! 
