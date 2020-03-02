@@ -29,7 +29,23 @@ In a more ideal world, the formal education system would have a place for me to 
 Key 
 - ✅Completed, finished, done-zo! 
 - 🚧In progress, working, construction zone! 
-- 🔜 Up next, on deck, coming up! 
+- 🔜 Up next, on deck, coming up!
+
+Product, Technology, Computer Science & Programming
+- ✅ Book: The Product Book by Carlos González de Villaumbrosia and Josh Anon
+- ✅ Course: Harvard CS50 
+- ✅ Course: 9 Week Full Time Immersive Web Development, Le Wagon 
+- ✅ Book: Don’t Make Me Think by Steve Krug
+- ✅ Documentary: The Great Hack
+- ✅ Course: Intro to UX: Fundamentals of Usability on Skillshare
+- ✅ Course: Introduction to Data Structures for Interviews with Bianca Gandolfo, Front End Masters 
+- ✅ Course: Four Semesters of Computer Science in 5 Hours with Brian Holt, Front End Masters 
+- ✅ Course: Design for Developers with Sarah Drasner, Front End Masters 
+- ✅ Project: Nuzzle (my first Rails app, an Airbnb clone for renting pets... it's a joke!)
+- ✅ Project: Datesy
+- 🚧 Project: apprenticeship.io
+- 🚧 Project kamr.in (my personal blog and portfolio!)
+- 🔜 Project allyship.io 
 
 Education & Learning Science
 - ✅ Documentary: Fail State
@@ -39,6 +55,7 @@ Education & Learning Science
 - 🔜 Mastery by Robert Greene
 
 Art, Design, Fashion & Beauty
+- ✅ Course: How To Style and Curl My Own Hair for the Workplace with a Dyson Airwrap, self-taught
 - ✅ Documentary: Bill Cunningham New York
 - ✅ Book: City of Girls by Elizabeth Gilbert
 - ✅ Course: Photoshop Essentials - Envato Tufts
@@ -82,14 +99,3 @@ Psychology, Mental Health, Relationships
 
 Business
 - ✅ Book: Originals, How Non-Conformists Move the World 
-
-Product, Technology, Computer Science & Programming
-- ✅ Book: The Product Book by Carlos González de Villaumbrosia and Josh Anon
-- ✅ Course: Harvard CS50 
-- ✅ Course: 9 Week Full Time Immersive Web Development, Le Wagon 
-- ✅ Book: Don’t Make Me Think by Steve Krug
-- ✅ Documentary: The Great Hack
-- ✅ Intro to UX: Fundamentals of Usability on Skillshare
-- ✅ Course: Introduction to Data Structures for Interviews with Bianca Gandolfo, Front End Masters 
-- ✅ Course: Four Semesters of Computer Science in 5 Hours with Brian Holt, Front End Masters 
-- ✅ Course: Design for Developers with Sarah Drasner, Front End Masters 
