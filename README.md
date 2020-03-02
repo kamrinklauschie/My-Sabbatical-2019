@@ -1,14 +1,18 @@
 # My Sabbatical 2019
 An overview of my goals and accomplishments during the 1st sabbatical of my career! ⭐⭐⭐
 
-Objectives
+*** Note: an explicit ethos* I held during this time was to explore and settle into the idea of not viewing my life as a series of accomplishments on the meritocracy hampster wheel. Thus, this document lived as a messy, haphazard outline in my Google Drive and Evernote for the majority of the duration of my sabbatical. I did not expect myself to "have it all together" as I went, I built the plane you see below while I was flying it. I wanted to extend myself such creative freedom and self-compassion during my sabbatical. I hope others who may look at this overview while considering a sabbatical or learning about a sabbatical for someone they love might extend such grace to themselves and to the people they love.
+
+*This TED Talk by David Brooks summarizes many elements of the ethos I held during my sabbatical: 🤓 https://www.ted.com/talks/david_brooks_the_lies_our_culture_tells_us_about_what_matters_and_a_better_way_to_live?language=en
+
+🔎 Objectives
 - To overcome burnout and depression 
 - To regain my confidence and sense of worthiness as a human being
 - To rebuild my personal identity and re-commit to my values 
 - To heal from trauma, reflect and learn from mistakes and conflicts from 2019 and earlier
 - To prepare for a career that may not currently exist, at the intersection of learning science and software engineering 
 
-Goals
+🥅 Goals
 - Become a good enough calligrapher to join Punkpost for fun on the weekends
 - Finish the apprenticeship.io features I've dreamed about for years
 - Finish my reimagination of the swiss-miss blog I've dreamed about for years
@@ -19,13 +23,13 @@ Goals
 - Finish a full time immersive web development bootcamp, as similar to Dev Bootcamp as possible
 - Teach myself the Adobe Creative Cloud suite, with a focus on Photoshop and Illustrator
 
-Why Now? 
+⏰ Why Now? 
 ... Coming soon! 
 
-About Sabbaticals
+📝 About Sabbaticals
 ... Coming soon! 
 
-About Burnout
+🧯 About Burnout
 ... Coming soon!
 
 # CS-MBA-MEd Curriculum
@@ -36,7 +40,7 @@ Key
 - 🚧In progress, working, construction zone! 
 - 🔜 Up next, on deck, coming up!
 
-Product, Technology, Computer Science & Programming
+💻 Product, Technology, Computer Science & Programming
 - ✅ Book: The Product Book by Carlos González de Villaumbrosia and Josh Anon
 - ✅ Course: Harvard CS50 
 - ✅ Course: 9 Week Full Time Immersive Web Development, Le Wagon 
@@ -52,14 +56,14 @@ Product, Technology, Computer Science & Programming
 - 🚧 Project kamr.in (my personal blog and portfolio!)
 - 🔜 Project allyship.io 
 
-Education & Learning Science
+📚 Education & Learning Science
 - ✅ Documentary: Fail State
 - ✅ MOOC: Learning How to Learn (https://www.coursera.org/learn/learning-how-to-learn) 
 - ✅ MOOC: Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential (https://www.coursera.org/learn/mindshift)
 - 🚧 Book: Ultralearning - Master Hard Skills, Outsmart the Competition, and Accelerate Your Career by Scott Young
 - 🔜 Mastery by Robert Greene
 
-Art, Design, Fashion & Beauty
+🎨 Art, Design, Fashion & Beauty
 - ✅ Course: How To Style and Curl My Own Hair for the Workplace with a Dyson Airwrap, self-taught
 - ✅ Documentary: Bill Cunningham New York
 - ✅ Book: City of Girls by Elizabeth Gilbert
@@ -70,7 +74,7 @@ Art, Design, Fashion & Beauty
 - 🔜 Course: Calligraphy Essentials on Skillshare
 - 🔜 Workshop: Drawing on the Right Side of the Brain (5 days, $1600)
 
-Athletics
+👟 Athletics
 - ✅ Race: Monte Rio Sprint Triathlon
 - ✅ Hiking: Torres del Paine in Patagonia
 - ✅ Hiking: Mount Fitz Roy in Patagonia 
@@ -78,14 +82,14 @@ Athletics
 - 🔜 Sailing: ASA 101 
 - 🔜 Sailing: Basic Keelboating 
 
-Cooking 
+🍳 Cooking 
 - ✅ Workshop: Full Day Barista Course, Pour Over + Espresso, in Spanish, at Lab in Buenos Aires 
 - ✅ Documentary: Cooked
 - ✅ Documentary: Salt, Fat, Acid, Heat 
 - ✅ Course: Getting Started with Wine: Buy Smarter, Taste More with Gary Vaynerchuk on Skillshare
 - ✅ Course: From Plant to Cup: Brew an Amazing Cup of Coffee by Blue Bottle on Skillshare
 
-Politics, Philosophy, Ethics & Justice
+⚖️ Politics, Philosophy, Ethics & Justice
 - ✅ Documentary: Knock Down the House 
 - ✅ Documentary: Generation Wealth
 - ✅ Book: Becoming by Michelle Obama
@@ -94,7 +98,7 @@ Politics, Philosophy, Ethics & Justice
 - ✅ Book: Transitions by William Bridges 
 - ✅ Book: Man’s Search for Meaning by Viktor Frankl 
 
-Psychology, Mental Health, Relationships
+🧬 Psychology, Mental Health, Relationships
 - ✅Book: 48 Laws of Power by Robert Greene 
 - ✅Book: The Art of Seduction by Robert Greene 
 - ✅Book: Grit: The Power of Passion and Perseverance 
@@ -102,5 +106,5 @@ Psychology, Mental Health, Relationships
 - ✅Book: The State of Affairs by Esther Perel 
 - ✅Book: Mating in Captivity by Esther Perel 
 
-Business
+💸 Business
 - ✅ Book: Originals, How Non-Conformists Move the World 
