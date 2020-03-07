@@ -1,5 +1,5 @@
 # My Sabbatical 2019
-### An overview of my goals and accomplishments during the 1st sabbatical of my career! ⭐⭐⭐
+#### An overview of my goals and accomplishments during the 1st sabbatical of my career! ⭐⭐⭐
 
 *** Note: an explicit ethos* I held during this time was to explore and settle into the idea of not viewing my life as a series of accomplishments on the meritocracy hampster wheel. Thus, this document lived as a messy, haphazard outline in my Google Drive and Evernote for the majority of the duration of my sabbatical. I did not expect myself to "have it all together" as I went, I built the plane you see below while I was flying it. I wanted to extend myself such creative freedom and self-compassion during my sabbatical. I hope others who may look at this overview while considering a sabbatical or learning about a sabbatical for someone they love might extend such grace to themselves and to the people they love.
 
