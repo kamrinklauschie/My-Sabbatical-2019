@@ -1,6 +1,14 @@
 # My Sabbatical 2019
 #### An overview of my goals and accomplishments during the 1st sabbatical of my career! ⭐⭐⭐
 
+📝 About Sabbaticals
+A sabbatical is traditionally defined as a "paid leave granted to a professional for study or travel, usually one year for every 7 years worked." The concept dates back to ancient agriculture traditions and the Biblical practice of shmita, where people are required take a year-long break after working in the fields every 7 years. With 11% of American companies offering unpaid sabbatical benefits, and 5% offering paid sabbatical benefits (according to the 2019 Society for Human Resource Management (SHRM) Employee Benefits Survey representing nearly 3,000 companies) and over 2 years already spent trying to work out a sabbatical with a company that didn't offer a formal program, taking one for myself seems like the best possible outcome for my career long term. 
+
+#### About Burnout 🧯
+... Coming soon!
+
+#### Why Now? Why Me? ⏰
+
 *** Note: an explicit ethos* I held during this time was to explore and settle into the idea of not viewing my life as a series of accomplishments on the meritocracy hampster wheel. Thus, this document lived as a messy, haphazard outline in my Google Drive and Evernote for the majority of the duration of my sabbatical. I did not expect myself to "have it all together" as I went, I built the plane you see below while I was flying it. I wanted to extend myself such creative freedom and self-compassion during my sabbatical. I hope others who may look at this overview while considering a sabbatical or learning about a sabbatical for someone they love might extend such grace to themselves and to the people they love.
 
 *This TED Talk by David Brooks summarizes many elements of the ethos I held during my sabbatical: 🤓 https://www.ted.com/talks/david_brooks_the_lies_our_culture_tells_us_about_what_matters_and_a_better_way_to_live
@@ -12,7 +20,7 @@
 - To heal from trauma, reflect and learn from mistakes and conflicts from 2019 and earlier
 - To prepare for a career that may not currently exist, at the intersection of learning science and software engineering 
 
-🥅 Goals
+#### Goals 🥅
 - Become a good enough calligrapher to join Punkpost for fun on the weekends
 - Finish the apprenticeship.io features I've dreamed about for years
 - Finish my reimagination of the swiss-miss blog I've dreamed about for years
@@ -23,19 +31,10 @@
 - Finish a full time immersive web development bootcamp, as similar to Dev Bootcamp as possible
 - Teach myself the Adobe Creative Cloud suite, with a focus on Photoshop and Illustrator
 
-📝 About Sabbaticals
-A sabbatical is traditionally defined as a "paid leave granted to a professional for study or travel, usually one year for every 7 years worked." The concept dates back to ancient agriculture traditions and the Biblical practice of shmita, where people are required take a year-long break after working in the fields every 7 years. With 11% of American companies offering unpaid sabbatical benefits, and 5% offering paid sabbatical benefits (according to the 2019 Society for Human Resource Management (SHRM) Employee Benefits Survey representing nearly 3,000 companies) and over 2 years already spent trying to work out a sabbatical with a company that didn't offer a formal program, taking one for myself seems like the best possible outcome for my career long term. 
-
-🧯 About Burnout
-... Coming soon!
-
-⏰ Why Now? Why Me? 
-
-
 # CS-MBA-MEd Curriculum
 In a more ideal world, the formal education system would have a place for me to retrain as a near 30 something with a dynamic, modern set of interests, without going into absurd amounts of student debt. Because that world doesn't currently exist, I have created the curriculum and structure of my dreams for myself through a combination of online and in person courses, films, travel, and activities. 
 
-Key 
+#### Key 
 - ✅Completed, finished, done-zo! 
 - 🚧In progress, working, construction zone! 
 - 🔜 Up next, on deck, coming up!
