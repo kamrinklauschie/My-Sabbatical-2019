@@ -1,7 +1,7 @@
 # My Sabbatical 2019
 #### An overview of my goals and accomplishments during the 1st sabbatical of my career! ⭐⭐⭐
 
-📝 About Sabbaticals
+#### About Sabbaticals 📝
 
 A sabbatical is traditionally defined as a "paid leave granted to a professional for study or travel, usually one year for every 7 years worked." The concept dates back to ancient agriculture traditions and the Biblical practice of shmita, where people are required take a year-long break after working in the fields every 7 years. With 11% of American companies offering unpaid sabbatical benefits, and 5% offering paid sabbatical benefits (according to the 2019 Society for Human Resource Management (SHRM) Employee Benefits Survey representing nearly 3,000 companies) and over 2 years already spent trying to work out a sabbatical with a company that didn't offer a formal program, taking one for myself seems like the best possible outcome for my career long term. 
 
