@@ -5,7 +5,7 @@
 
 *This TED Talk by David Brooks summarizes many elements of the ethos I held during my sabbatical: 🤓 https://www.ted.com/talks/david_brooks_the_lies_our_culture_tells_us_about_what_matters_and_a_better_way_to_live
 
-🔎 Objectives
+#### Objectives 🔎
 - To overcome burnout and depression 
 - To regain my confidence and sense of worthiness as a human being
 - To rebuild my personal identity and re-commit to my values 
