@@ -2,18 +2,23 @@
 #### An overview of my goals and accomplishments during the 1st sabbatical of my career! ⭐⭐⭐
 
 #### About Sabbaticals 📝
+A sabbatical is typically defined as a "paid leave granted to a professional for study or travel, usually one year for every 7 years worked." The concept dates back to ancient regenerative agricultural traditions and the Biblical practice of shmita, where people were required take a year-long break every 7 years: a beautiful, necessary ritual dedicated to the healthfulness and rebirth of both the fields and the humans who tended to them.
 
-A sabbatical is traditionally defined as a "paid leave granted to a professional for study or travel, usually one year for every 7 years worked." The concept dates back to ancient agriculture traditions and the Biblical practice of shmita, where people are required take a year-long break after working in the fields every 7 years. With 11% of American companies offering unpaid sabbatical benefits, and 5% offering paid sabbatical benefits (according to the 2019 Society for Human Resource Management (SHRM) Employee Benefits Survey representing nearly 3,000 companies) and over 2 years already spent trying to work out a sabbatical with a company that didn't offer a formal program, taking one for myself seems like the best possible outcome for my career long term. 
+As of 2019, 11% of American companies offer unpaid sabbatical benefits, and 5% offer paid sabbatical benefits (according to the 2019 Society for Human Resource Management, or SHRM, Employee Benefits Survey representing nearly 3,000 American companies). In other words, in today's productivity and hustle focused world, sabbaticals are rare and underutilized.
 
 #### About Burnout 🧯
-... Coming soon!
+In the 1st quarter of 2019, a number of articles about burnout went viral online ("How Milennials Became the Burnout Generation" on BuzzFeed, "Milennials Are Screwed" on HuffPo Highline, and "Against Hustle Culture" on NYT, to name a few). By May 2019, the World Health Organization announced burnout's inclusion in the 11th Revision of the International Classification of Diseases. Burnout is an occupational syndrome involving chronic apathy, detachment, isolation, irritability, anger, and forgetfulness.
 
 #### Why Now? Why Me? ⏰
-... Coming soon!
+I spent most of my 20s surviving working very hard in incredibly chaotic startups. AngelHack barely survived the national PR crisis created by it's "tech bro" founder who I worked with, while watching all my friends and colleagues get fired. Samasource limped along, suffered layoffs, and sold off Samahope, while I furiously worked what amounted to 3 full time jobs trying to keep up with Leila Janah. Dev Bootcamp and Learners Guild both shut down amongst the overexpansion of the bootcamp training industry, despite our team's success advocating for the expansion of corporate apprenticeship programs. I spun out my own company in hopes we could continue that success B2B, only to fight endlessly with my cofounders over basic interpersonal relationship dynamics that hurt and belittled me. 
 
-*** Note: an explicit ethos* I held during this time was to explore and settle into the idea of not viewing my life as a series of accomplishments on the meritocracy hampster wheel. Thus, this document lived as a messy, haphazard outline in my Google Drive and Evernote for the majority of the duration of my sabbatical. I did not expect myself to "have it all together" as I went, I built the plane you see below while I was flying it. I wanted to extend myself such creative freedom and self-compassion during my sabbatical. I hope others who may look at this overview while considering a sabbatical or learning about a sabbatical for someone they love might extend such grace to themselves and to the people they love.
+In the aftermath of those 7 years of work, it became exceptionally clear I was burned out and depressed. It became exceptionally clear dedicating myself for years to a company in hopes they might give me a sabbatical was a recipe for disappointment. It became exceptionally clear working towards my professional development goals part time would not result in the kind of progress I wanted. It became exceptionally clear that if I didn't choose to invest in myself, no one else would.
 
-*This TED Talk by David Brooks summarizes many elements of the ethos I held during my sabbatical: 🤓 https://www.ted.com/talks/david_brooks_the_lies_our_culture_tells_us_about_what_matters_and_a_better_way_to_live
+I had a choice: I could continue advocating for the development of other's careers until I no longer existed, except for a depressed, burned out shell of my former self, or I could take a sabbatical and do the damn thing myself. I - finally - after years of battling against myself, against finding the resources, against never being granted permission by organizations or people, chose to take my sabbatical for myself.
+
+#### Note: an explicit ethos* I held during this time was to explore and settle into the idea of not viewing my life as a series of accomplishments on the meritocracy workaholism hampster wheel. Thus, this document lived as a messy, haphazard outline in my Google Drive and Evernote for the majority of the duration of my sabbatical. I did not expect myself to "have it all together" as I went, I built the plane you see below while I was flying it. I wanted to extend myself such creative freedom and self-compassion during my sabbatical. I hope others who may look at this overview while considering a sabbatical or learning about a sabbatical for someone they love might extend such grace to themselves and to the people they love. 
+
+* This TED Talk by David Brooks summarizes the ethos I held during my sabbatical: 🤓 https://www.ted.com/talks/david_brooks_the_lies_our_culture_tells_us_about_what_matters_and_a_better_way_to_live
 
 #### Objectives 🔎
 - To overcome burnout and depression 
@@ -41,7 +46,7 @@ In a more ideal world, the formal education system would have a place for me to 
 - 🚧In progress, working, construction zone! 
 - 🔜 Up next, on deck, coming up!
 
-💻 Product, Technology, Computer Science & Programming
+#### Product, Technology, Computer Science & Programming 💻
 - ✅ Book: The Product Book by Carlos González de Villaumbrosia and Josh Anon
 - ✅ Course: Harvard CS50 
 - ✅ Course: 9 Week Full Time Immersive Web Development, Le Wagon 
@@ -59,14 +64,14 @@ In a more ideal world, the formal education system would have a place for me to 
 - 🚧 Book: But How Do It Know? Basic Principles of Computers for Everyone by J. Clark Scott
 - 🔜 Project allyship.io 
 
-📚 Education & Learning Science
+#### Education & Learning Science 📚
 - ✅ Documentary: Fail State
 - ✅ MOOC: Learning How to Learn (https://www.coursera.org/learn/learning-how-to-learn) 
 - ✅ MOOC: Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential (https://www.coursera.org/learn/mindshift)
 - 🚧 Book: Ultralearning - Master Hard Skills, Outsmart the Competition, and Accelerate Your Career by Scott Young
 - 🔜 Mastery by Robert Greene
 
-🎨 Art, Design, Fashion & Beauty
+#### Art, Design, Fashion & Beauty 🎨
 - ✅ Course: How To Style and Curl My Own Hair for the Workplace with a Dyson Airwrap, self-taught
 - ✅ Documentary: Bill Cunningham New York
 - ✅ Book: City of Girls by Elizabeth Gilbert
@@ -77,7 +82,7 @@ In a more ideal world, the formal education system would have a place for me to 
 - 🔜 Course: Calligraphy Essentials on Skillshare
 - 🔜 Workshop: Drawing on the Right Side of the Brain (5 days, $1600)
 
-👟 Athletics
+#### Athletics 👟
 - ✅ Race: Monte Rio Sprint Triathlon
 - ✅ Hiking: Torres del Paine in Patagonia
 - ✅ Hiking: Mount Fitz Roy in Patagonia 
@@ -85,14 +90,14 @@ In a more ideal world, the formal education system would have a place for me to 
 - 🔜 Sailing: ASA 101 
 - 🔜 Sailing: Basic Keelboating 
 
-🍳 Cooking 
+#### Culinary 🍳
 - ✅ Workshop: Full Day Barista Course, Pour Over + Espresso, in Spanish, at Lab in Buenos Aires 
 - ✅ Documentary: Cooked
 - ✅ Documentary: Salt, Fat, Acid, Heat 
 - ✅ Course: Getting Started with Wine: Buy Smarter, Taste More with Gary Vaynerchuk on Skillshare
 - ✅ Course: From Plant to Cup: Brew an Amazing Cup of Coffee by Blue Bottle on Skillshare
 
-⚖️ Politics, Philosophy, Ethics & Justice
+#### Politics, Philosophy, Ethics & Justice ⚖️
 - ✅ Documentary: Knock Down the House 
 - ✅ Documentary: Generation Wealth
 - ✅ Book: Becoming by Michelle Obama
@@ -101,7 +106,7 @@ In a more ideal world, the formal education system would have a place for me to 
 - ✅ Book: Transitions by William Bridges 
 - ✅ Book: Man’s Search for Meaning by Viktor Frankl 
 
-🧬 Psychology, Mental Health, Relationships
+#### Psychology, Mental Health, Relationships 🧬
 - ✅Book: 48 Laws of Power by Robert Greene 
 - ✅Book: The Art of Seduction by Robert Greene 
 - ✅Book: Grit: The Power of Passion and Perseverance 
@@ -109,5 +114,16 @@ In a more ideal world, the formal education system would have a place for me to 
 - ✅Book: The State of Affairs by Esther Perel 
 - ✅Book: Mating in Captivity by Esther Perel 
 
-💸 Business
+#### Business 💸
 - ✅ Book: Originals, How Non-Conformists Move the World 
+
+
+
+#### Sources & References: 📍
+- 2019 SHRM  Employee Benefits Survey: https://www.shrm.org/hr-today/trends-and-forecasting/research-and-surveys/Documents/SHRM%20Employee%20Benefits%202019%20Executive%20Summary.pdf
+- How Milennials Became the Burnout Generation: https://www.buzzfeednews.com/article/annehelenpetersen/millennials-burnout-generation-debt-work
+- Milennials are Screwed: https://highline.huffingtonpost.com/articles/en/poor-millennials/
+- Against Hustle Culture: https://www.nytimes.com/2019/01/26/business/against-hustle-culture-rise-and-grind-tgim.html
+- World Health Organization announces burnout: https://www.who.int/mental_health/evidence/burn-out/en/
+- Tell Tale Signs of Burnout: https://www.psychologytoday.com/us/blog/high-octane-women/201311/the-tell-tale-signs-burnout-do-you-have-them
+- Job Burnout: How to Spot it and Take Action https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/burnout/art-20046642
